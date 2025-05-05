@@ -13,25 +13,12 @@ Aqui você encontrará alguns dos meus projetos e contribuições para a comunid
 * 🤖 Entusiasta de automatização de navegação com ferramentas como Puppeteer e Selenium.
 * ✨ Busco sempre escrever código limpo, testável e de fácil manutenção.
 
-### Projetos em destaque:
-
-* [Nome do Projeto 1]: Uma breve descrição do projeto e o que ele faz.
-* [Nome do Projeto 2]: Uma breve descrição do projeto e o que ele faz.
-* [Nome do Projeto 3]: Uma breve descrição do projeto e o que ele faz.
-
 ### Habilidades:
 
 * Linguagens: JavaScript, TypeScript, Python
 * Back-end: Node.js, Express, NestJS, Koa
-* Bancos de Dados: PostgreSQL, MySQL, MongoDB, Redis
-* Cloud: AWS (EC2, S3, Lambda, etc.)
+* Bancos de Dados: PostgreSQL, MySQL, MongoDB, 
+* Cloud: Digital Ocean, hostinger
 * Ferramentas de Automatização: Puppeteer, Selenium
 * Outras: Docker, Git, CI/CD
 
-### Conecte-se comigo:
-
-* [Link para o seu LinkedIn]
-* [Link para o seu Twitter (se tiver)]
-* [Link para o seu site pessoal (se tiver)]
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato! 😊
