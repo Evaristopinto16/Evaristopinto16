@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150px" alt="Evaristo Pinto Profile Picture"/>
+  <img src="https://avatars.githubusercontent.com/u/Evaristopinto16?v=4" width="150px" alt="Evaristo Pinto Profile Picture"/>
   <h1>👋 Olá, eu sou o Evaristo Pinto! 👋</h1>
   <p>Seja bem-vindo(a) ao meu universo de código e automatização!</p>
 </div>
@@ -7,10 +7,10 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/SEU_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile views" />
+  <a href="https://github.com/Evaristopinto16">
+    <img src="https://komarev.com/ghpvc/?username=Evaristopinto16&color=blueviolet" alt="Profile views" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/evaristo-calucango/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -49,9 +49,9 @@
 ## 📈 Estatísticas do GitHub (e um pouco de magia!)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&include_all_commits=true&count_private=true&line_height=25" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=nord&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dark_doctor&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=github-profile-trophy.vercel.ap&show_icons=true&theme=nord&include_all_commits=true&count_private=true&line_height=25" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github-profile-trophy.vercel.ap&theme=nord&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=github-profile-trophy.vercel.ap&theme=dark_doctor&no-bg=true" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -64,12 +64,10 @@ Tenho certeza de que podemos construir algo incrível juntos. Sinta-se à vontad
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SEU_EMAIL@example.com">
+  <a href="mailto:evaristopinto63@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://discordapp.com/users/SEU_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+  
 </div>
 
 ---
