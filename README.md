@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/Evaristopinto16?v=4" width="150px" alt="Evaristo Pinto Profile Picture"/>
+  <img src="https://avatars.githubusercontent.com/u/110438215?v=4" width="150px" alt="Evaristo Pinto Profile Picture"/>
   <h1>👋 Olá, eu sou o Evaristo Pinto! 👋</h1>
   <p>Seja bem-vindo(a) ao meu universo de código e automatização!</p>
 </div>
@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" alt="Databases" /><br><br>
 
   <h3>Cloud & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=docker,aws,digitalocean,gcp" alt="Cloud & DevOps" /><br><br>
+  <img src="https://skillicons.dev/icons?i=docker,digitalocean,gcp" alt="Cloud & DevOps" /><br><br>
 
   <h3>Automatização</h3>
   <img src="https://skillicons.dev/icons?i=puppeteer,selenium" alt="Automation Tools" /><br><br>
@@ -51,7 +51,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Evaristopinto16&github-profile-trophy.vercel.ap&show_icons=true&theme=nord&include_all_commits=true&count_private=true&line_height=25" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evaristopinto16&github-profile-trophy.vercel.ap&theme=nord&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Evaristopinto16&github-profile-trophy.vercel.ap&theme=dark_doctor&no-bg=true" alt="GitHub Trophies"/>
+ 
 </div>
 
 ---
