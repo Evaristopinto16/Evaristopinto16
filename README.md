@@ -49,9 +49,9 @@
 ## 📈 Estatísticas do GitHub (e um pouco de magia!)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=github-profile-trophy.vercel.ap&show_icons=true&theme=nord&include_all_commits=true&count_private=true&line_height=25" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github-profile-trophy.vercel.ap&theme=nord&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=github-profile-trophy.vercel.ap&theme=dark_doctor&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Evaristopinto16&github-profile-trophy.vercel.ap&show_icons=true&theme=nord&include_all_commits=true&count_private=true&line_height=25" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evaristopinto16&github-profile-trophy.vercel.ap&theme=nord&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Evaristopinto16&github-profile-trophy.vercel.ap&theme=dark_doctor&no-bg=true" alt="GitHub Trophies"/>
 </div>
 
 ---
