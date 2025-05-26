@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/110438215?v=4" width="150px" alt="Evaristo Pinto Profile Picture"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQFsYsrz38I8EQ/profile-displayphoto-shrink_400_400/B4DZN8Jed6HoAg-/0/1732954722177?e=1753920000&v=beta&t=yWKNxdYKoIUjQukm5JNdw-OzsisxLDO6ndeEKZh2cBQ" width="150px" alt="Evaristo Pinto Profile Picture"/>
   <h1>👋 Olá, eu sou o Evaristo Pinto! 👋</h1>
   <p>Seja bem-vindo(a) ao meu universo de código e automatização!</p>
 </div>
