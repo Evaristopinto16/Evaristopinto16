@@ -1,24 +1,75 @@
-## Olá, eu sou o Evaristo Pinto! 👋
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150px" alt="Evaristo Pinto Profile Picture"/>
+  <h1>👋 Olá, eu sou o Evaristo Pinto! 👋</h1>
+  <p>Seja bem-vindo(a) ao meu universo de código e automatização!</p>
+</div>
 
-Desenvolvedor back-end Node.js com mais de 3 anos de experiência, apaixonado por automatização de navegação. 🤖
+---
 
-Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade open-source. Gosto de explorar novas tecnologias e resolver problemas complexos, sempre buscando aprimorar minhas habilidades e conhecimentos.
+<div align="center">
+  <a href="https://github.com/SEU_GITHUB_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-### Sobre mim:
+---
 
-* 💻 Desenvolvo em Node.js com foco em performance e escalabilidade.
-* 🚀 Experiência com frameworks como Express, NestJS e Koa.
-* 💾 Trabalho com bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB, Redis).
-* ☁️ Familiarizado com serviços AWS (EC2, S3, Lambda, etc.).
-* 🤖 Entusiasta de automatização de navegação com ferramentas como Puppeteer e Selenium.
-* ✨ Busco sempre escrever código limpo, testável e de fácil manutenção.
+## 🚀 Minha Missão
 
-### Habilidades:
+<p align="justify">
+  Como desenvolvedor **back-end Node.js** com mais de **3 anos de experiência**, minha paixão é transformar ideias em soluções eficientes e automatizadas. Adoro desvendar problemas complexos e otimizar processos, sempre com um olhar atento à **performance**, **escalabilidade** e a um **código limpo e elegante**. Explore meus projetos para ver como coloco isso em prática!
+</p>
 
-* Linguagens: JavaScript, TypeScript, Python
-* Back-end: Node.js, Express, NestJS, Koa
-* Bancos de Dados: PostgreSQL, MySQL, MongoDB, 
-* Cloud: Digital Ocean, hostinger
-* Ferramentas de Automatização: Puppeteer, Selenium
-* Outras: Docker, Git, CI/CD
+---
 
+## 🛠️ Tech Stack & Expertise
+
+<div align="center">
+  <h3>Linguagens</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,py" alt="Linguagens" /><br><br>
+
+  <h3>Back-end</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Back-end Frameworks" /><br><br>
+
+  <h3>Bancos de Dados</h3>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" alt="Databases" /><br><br>
+
+  <h3>Cloud & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=docker,aws,digitalocean,gcp" alt="Cloud & DevOps" /><br><br>
+
+  <h3>Automatização</h3>
+  <img src="https://skillicons.dev/icons?i=puppeteer,selenium" alt="Automation Tools" /><br><br>
+</div>
+
+---
+
+## 📈 Estatísticas do GitHub (e um pouco de magia!)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&include_all_commits=true&count_private=true&line_height=25" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=nord&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dark_doctor&no-bg=true" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💬 Vamos Conversar!
+
+Tenho certeza de que podemos construir algo incrível juntos. Sinta-se à vontade para me contatar:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:SEU_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discordapp.com/users/SEU_DISCORD_ID">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+
+---
