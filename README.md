@@ -7,9 +7,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/Evaristopinto16">
-    <img src="https://komarev.com/ghpvc/?username=Evaristopinto16&color=blueviolet" alt="Profile views" />
-  </a>
+   
   <a href="https://www.linkedin.com/in/evaristo-calucango/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
