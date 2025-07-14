@@ -59,7 +59,7 @@
 Tenho certeza de que podemos construir algo incrível juntos. Sinta-se à vontade para me contatar:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/evaristo-calucango/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:evaristopinto63@gmail.com">
