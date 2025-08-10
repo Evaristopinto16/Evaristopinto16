@@ -1,16 +1,14 @@
 <div align="center">
   
-  <h1>👋 Olá, eu sou o Evaristo Pinto! 👋</h1>
-  <p>Seja bem-vindo(a) ao meu universo de código e automatização!</p>
+  <h1>🤖 Bem-vindo ao Mundo do Browser Automation Developer! 🌐</h1>
+ 
 </div>
 
 ---
 
 <div align="center">
    
-  <a href="https://www.linkedin.com/in/evaristo-calucango/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  🧠 Sou um Computador (Computador²)
 </div>
 
 ---
@@ -18,54 +16,36 @@
 ## 🚀 Minha Missão
 
 <p align="justify">
-  Como desenvolvedor back-end Node.js com +3 anos de experiência, minha paixão é transformar ideias em soluções eficientes e automatizadas. Adoro desvendar problemas complexos e otimizar processos, sempre com um olhar atento à performance, escalabilidade e a um código limpo e elegante. Explore meus projetos para ver como coloco isso em prática!
+ O computador surgiu para automatizar, logo: <br>
+- Automatizo tarefas  <br>
+- Automatizo a automatização  <br>
+- Me tornei a automatização  <br>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack & Expertise
 
-<div align="center">
-  <h3>Linguagens</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,py" alt="Linguagens" /><br><br>
+ ```javascript
+ const skills = {
+  linguagens: ["JavaScript", "Python", "c++"],
+  frameworks: ["Puppeteer", "Selenium", "playwright, React, express, Next.js, Bootstrap"],
+  superPoderes: [
+    "Transformar café em código",
+    "Automatizar até minha própria existência",
+    "Fazer o browser dançar lambada"
+  ],
+  filosofia: "Se Turing testou, eu automatizo"
+}; 
 
-  <h3>Back-end</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Back-end Frameworks" /><br><br>
+// AVISO: Este desenvolvedor pode conter:
+// - Bugs existenciais
+// - Dependência de café
+// - Obsessão por automatizar tudo
+// 
+// Se encontrar algum problema, tente:
+// 1. Reiniciar o universo
+// 2. Oferecer café
+// 3. Aceitar que a automação está no controle agora
 
-  <h3>Bancos de Dados</h3>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" alt="Databases" /><br><br>
-
-  <h3>Cloud & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=docker,digitalocean,gcp" alt="Cloud & DevOps" /><br><br>
-
-  <h3>Automatização</h3>
-  <img src="https://skillicons.dev/icons?i=puppeteer,selenium" alt="Automation Tools" /><br><br>
-</div>
-
----
-
-## 📈 Estatísticas do GitHub (e um pouco de magia!)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Evaristopinto16&github-profile-trophy.vercel.ap&show_icons=true&theme=nord&include_all_commits=true&count_private=true&line_height=25" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evaristopinto16&github-profile-trophy.vercel.ap&theme=nord&hide_border=true" alt="GitHub Streak"/>
- 
-</div>
-
----
-
-## 💬 Vamos Conversar!
-
-Tenho certeza de que podemos construir algo incrível juntos. Sinta-se à vontade para me contatar:
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/evaristo-calucango/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:evaristopinto63@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  
-</div>
-
----
+console.log("Obrigado por ler até aqui! Vamos automatizar algo?");
